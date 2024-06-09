@@ -1,6 +1,17 @@
 {
-    "name": "Rocoproc",
-    "symbol": "ROCO",
-    "description": "The Future of Bot Development",
-    "image": "https://raw.githubusercontent.com/rocoproc/crypto/main/logo.png"
+  "name": "Rocoproc",
+  "symbol": "ROCO",
+  "decimals": 9,
+  "image": "https://raw.githubusercontent.com/rocoproc/crypto/main/logo.png",
+  "external_url": "https://t.me/Rocoproc",
+  "description": "The Future of Bot Development",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/rocoproc/crypto/main/logo.png",
+        "type": "image/png"
+      }
+    ]
+  }
 }
